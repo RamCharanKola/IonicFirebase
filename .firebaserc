@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fire-ff63c": {
+      "hosting": {
+        "app": [
+          "fire-ff63c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fire-ff63c"
+  }
+}

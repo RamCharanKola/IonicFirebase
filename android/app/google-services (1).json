@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462321941394",
+    "project_id": "fire-ff63c",
+    "storage_bucket": "fire-ff63c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462321941394:android:3a61125d6a83d7a32a1f4b",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462321941394-2n7mt2ivjnnjmfrsvjkevmf25l4ns37i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZR2OWjr81dee8fWWDxkz_vK-XLyiVa7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462321941394-2n7mt2ivjnnjmfrsvjkevmf25l4ns37i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
